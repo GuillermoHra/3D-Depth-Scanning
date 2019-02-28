@@ -363,14 +363,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = YNWZM38ZUT;
 				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)/../StandardCyborgFusion";
 				INFOPLIST_FILE = "$(SRCROOT)/StandardCyborgExample/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.StandardCyborg.StandardCyborgExample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.StandardCyborg.StandardCyborgExampleProthesia;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SWIFT_VERSION = 4.2;
@@ -383,14 +383,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = YNWZM38ZUT;
 				FRAMEWORK_SEARCH_PATHS = "$(PROJECT_DIR)/../StandardCyborgFusion";
 				INFOPLIST_FILE = "$(SRCROOT)/StandardCyborgExample/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.StandardCyborg.StandardCyborgExample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.StandardCyborg.StandardCyborgExampleProthesia;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SWIFT_VERSION = 4.2;
